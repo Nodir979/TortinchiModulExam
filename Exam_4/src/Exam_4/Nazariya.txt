@@ -1,0 +1,19 @@
+﻿1-Javob 
+SOH bu xotira tizimida kichik obyekctlar saqlanadigan joy.
+MIsol uchun Kichik obyektlar 85kb  SOH ga tushadi Katta obyektlar 85 Kb dan kop LOH ga tushadi 
+nima uchun kerak Chunki programma ishlaganda juda kop obeyktlar yaratiladi ularni tartibli saqlash 
+uchun .NET heapni bolib qoygan 
+SOH ichidagi obeyktlar 3 ta avlodga bolinadi 
+1 Gen 0 yangi yaratilgan obyk.
+2 Gen 1 biroz yashagan oby
+3 Gen 2 uzoq yashagan obyk
+
+2-Javob 
+Idisposable bu interface bolib resurslarni tozalash uchun ishlatiladi 
+
+3-Javob 
+Ref va Out bu metodga ozgaruvchini referance orqali uzatish uchun ishlatiladi
+yani metod ichida qiymatni ozgartirsak  tashqarida ham ozgaradi 
+ref bu ozgaruzchi oldindan qiymatga ega bolish kerak 
+out bu metodga berilayotgan ozgaruvchi oldindan qiymatga ega bolish shart emas lekin metod ichida 
+majbur qiymat bolish kerak .
